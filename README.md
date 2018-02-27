@@ -2,4 +2,4 @@
 
 contains two principle component analysis examples.
 
-[read about Zachary's Karate Club](http://networkdata.ics.uci.edu/data.php?id=105) from which this work draws inspiration.
+[Read about Zachary's Karate Club](https://en.wikipedia.org/wiki/Zachary%27s_karate_club) which this work relies upon.
